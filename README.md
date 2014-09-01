@@ -1,5 +1,4 @@
-# How to automate Google Compute Engine with Puppet: Highly Available LAMP Stack with MongoDB 
-
+# Example manifests for "How to automate Google Compute Engine with Puppet"
 
 A collection of Puppet manifest examples from our blog post [How to automate Google Compute Engine with Puppet: 
 Highly Available LAMP Stack with MongoDB](https://www.4stats.de/developer/google-compute-engine-puppet-lamp.html).
